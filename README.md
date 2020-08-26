@@ -31,10 +31,9 @@
 | :--- | :--- |
 | [CDimCircuits.jl][CDimCircuits] | Parametric analysis/vis. of model/meas./sim. results |
 | [EDAData], [SpiceData], <br> [LibPSF], [PSFWrite] | Reader/writers for EDA file.<br>{.sNp (Touchstone), .tr0 (SPICE), .psf} |
-| [ElectricalDiagrams] | Captivating circuit schematics in LibreOffice/OpenOffice |
 | [Cheat sheets][Cheatsheets] | [Trig. identities][CSTrig], [Ckt design equations][CSCkt] |
 | [Theory] | [DFE Equalization][TDFE] , [<var>S</var>-Parameters][TSParam] |
-| [Theory] | [DFE Equalization][TDFE] , [<var>S</var>-Parameters][TSParam] |
+| [ElectricalDiagrams] | Captivating circuit schematics in LibreOffice/OpenOffice |
 
 | Arduino projects |   |
 | :--- | :--- |
