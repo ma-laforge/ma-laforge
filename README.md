@@ -20,7 +20,7 @@
 [ArduinoCIR]: https://github.com/ma-laforge/ArduinoCIR
 
 [EXTmodelling]: https://ma-laforge.github.io/extresouces/modelling
-[EXTopensrcEDA]: https://ma-laforge.github.io/extresouces/opensrceda
+[EXTfreeEDA]: https://ma-laforge.github.io/extresouces/freeeda
 
 
 | General/scientific |   |
@@ -44,7 +44,7 @@
 
 ### Links to external resources (aggregators)
  - [Math/modelling/simulation/plotting resources &#x21AA;][EXTmodelling]
- - [Open source EDA &#x21AA;][EXTopensrcEDA]
+ - [Free EDA &#x21AA;][EXTfreeEDA]
 
 
 <!--
