@@ -9,15 +9,15 @@
 | :--- | :--- |
 | [CDimCircuits.jl](https://github.com/ma-laforge/CMDimData.jl) | Parametric analysis/vis. of model/meas./sim. results |
 | [EDAData](https://github.com/ma-laforge/CMDimCircuits.jl/blob/master/doc/EDAData.md), 
-[SpiceData](https://github.com/ma-laforge/SpiceData.jl),<br> 
-[LibPSF](https://github.com/ma-laforge/LibPSF.jl), [PSFWrite](https://github.com/ma-laforge/PSFWrite.jl) 
+  [SpiceData](https://github.com/ma-laforge/SpiceData.jl),<br> 
+  [LibPSF](https://github.com/ma-laforge/LibPSF.jl), [PSFWrite](https://github.com/ma-laforge/PSFWrite.jl) 
 | Reader/writers for EDA file.<br>{.sNp (Touchstone), .tr0 (SPICE), .psf} |
 | [Cheat sheets](https://github.com/ma-laforge/DocsLaTeX_Electrical) | 
-[Trig. identities](https://raw.githubusercontent.com/ma-laforge/DocsLaTeX_Electrical/master/RepoPDF/TrigIdentities.pdf), 
-[Ckt design equations](https://raw.githubusercontent.com/ma-laforge/DocsLaTeX_Electrical/master/RepoPDF/CktDesignEq.pdf) |
+  [Trig. identities](https://raw.githubusercontent.com/ma-laforge/DocsLaTeX_Electrical/master/RepoPDF/TrigIdentities.pdf), 
+  [Ckt design equations](https://raw.githubusercontent.com/ma-laforge/DocsLaTeX_Electrical/master/RepoPDF/CktDesignEq.pdf) |
 | [Theory](https://github.com/ma-laforge/DocsLaTeX_Electrical) | 
-[DFE Equalization](https://raw.githubusercontent.com/ma-laforge/DocsLaTeX_Electrical/master/RepoPDF/FilterDFE.pdf), 
-[<var>S</var>-Parameters](https://raw.githubusercontent.com/ma-laforge/DocsLaTeX_Electrical/master/RepoPDF/SParameters.pdf) |
+  [DFE Equalization](https://raw.githubusercontent.com/ma-laforge/DocsLaTeX_Electrical/master/RepoPDF/FilterDFE.pdf), 
+  [<var>S</var>-Parameters](https://raw.githubusercontent.com/ma-laforge/DocsLaTeX_Electrical/master/RepoPDF/SParameters.pdf) |
 
 | Arduino projects |   |
 | :--- | :--- |
