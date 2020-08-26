@@ -2,8 +2,8 @@
 [NumericIO]: https://github.com/ma-laforge/NumericIO.jl
 [InspectDR]: https://github.com/ma-laforge/InspectDR.jl
 [GracePlot]: https://github.com/ma-laforge/GracePlot.jl
-[CDimData]: https://github.com/ma-laforge/CDimData.jl
-[CDimCircuits]: https://github.com/ma-laforge/CDimCircuits.jl
+[CMDimData]: https://github.com/ma-laforge/CMDimData.jl
+[CMDimCircuits]: https://github.com/ma-laforge/CMDimCircuits.jl
 [EDAData]: https://github.com/ma-laforge/CMDimCircuits.jl/blob/master/doc/EDAData.md
 [SpiceData]: https://github.com/ma-laforge/SpiceData.jl
 [LibPSF]: https://github.com/ma-laforge/LibPSF.jl
@@ -28,11 +28,11 @@
 | [NumericIO.jl][NumericIO] | Control numeric output: Sci/Eng/SI +UTF8  |
 | [InspectDR.jl][InspectDR] | Fast, interactive Julia/GTK+ plots (+Smith charts) |
 | [GracePlot.jl][GracePlot] | Build Grace/xmgrace plots with Julia! |
-| [CDimData.jl][CDimData] | Parametric analysis/vis. +cont.-<var>f(x)</var> interp. |
+| [CMDimData.jl][CMDimData] | Parametric analysis/vis. +cont.-<var>f(x)</var> interp. |
 
 | Circuit-focused |   |
 | :--- | :--- |
-| [CDimCircuits.jl][CDimCircuits] | Parametric analysis/vis. of model/meas./sim. results |
+| [CMDimCircuits.jl][CMDimCircuits] | Parametric analysis/vis. of model/meas./sim. results |
 | [EDAData], [SpiceData], <br> [LibPSF], [PSFWrite] | Reader/writers for EDA file formats.<br>{.sNp (Touchstone), .tr0 (SPICE), .psf} |
 | [Cheat sheets][Cheatsheets] | [Trig. identities][CSTrig], [Ckt design equations][CSCkt] |
 | [Theory] | [DFE Equalization][TDFE] , [<var>S</var>-Parameters][TSParam] |
