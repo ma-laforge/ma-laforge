@@ -43,8 +43,8 @@
 | [ArduinoCIR] | Send/receive TV/other remote signals |
 
 ### Links to external resources (aggregators)
- - [Math/modelling/simulation/plotting resources][EXTmodelling]
- - [Open source EDA][EXTopensrcEDA]
+ - [Math/modelling/simulation/plotting resources &#x21AA;][EXTmodelling]
+ - [Open source EDA &#x21AA;][EXTopensrcEDA]
 
 
 <!--
