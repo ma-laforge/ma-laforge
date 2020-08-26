@@ -1,8 +1,15 @@
-<!-- Some reference-style links to make tables more readable -->
+<!-- Reference-style links to make tables & lists more readable -->
+[NumericIO]: https://github.com/ma-laforge/NumericIO.jl
+[InspectDR]: https://github.com/ma-laforge/InspectDR.jl
+[GracePlot]: https://github.com/ma-laforge/GracePlot.jl
+[CDimData]: https://github.com/ma-laforge/CDimData.jl
+[CDimCircuits]: https://github.com/ma-laforge/CDimCircuits.jl
 [EDAData]: https://github.com/ma-laforge/CMDimCircuits.jl/blob/master/doc/EDAData.md
 [SpiceData]: https://github.com/ma-laforge/SpiceData.jl
 [LibPSF]: https://github.com/ma-laforge/LibPSF.jl
 [PSFWrite]: https://github.com/ma-laforge/PSFWrite.jl
+
+[ElectricalDiagrams]: https://github.com/ma-laforge/ElectricalDiagrams
 [Cheatsheets]: https://github.com/ma-laforge/DocsLaTeX_Electrical
 [CSTrig]: https://raw.githubusercontent.com/ma-laforge/DocsLaTeX_Electrical/master/RepoPDF/TrigIdentities.pdf
 [CSCkt]: https://raw.githubusercontent.com/ma-laforge/DocsLaTeX_Electrical/master/RepoPDF/CktDesignEq.pdf
@@ -10,24 +17,28 @@
 [TDFE]: https://raw.githubusercontent.com/ma-laforge/DocsLaTeX_Electrical/master/RepoPDF/FilterDFE.pdf
 [TSParam]: https://raw.githubusercontent.com/ma-laforge/DocsLaTeX_Electrical/master/RepoPDF/SParameters.pdf
 
+[ArduinoCIR]: https://github.com/ma-laforge/ArduinoCIR
+
 
 | General/scientific |   |
 | :--- | :--- |
-| [NumericIO.jl](https://github.com/ma-laforge/NumericIO.jl) | Control numeric output: Sci/Eng/SI +UTF8  |
-| [InspectDR.jl](https://github.com/ma-laforge/InspectDR.jl) | Fast, interactive Julia/GTK+ plots (+Smith charts) |
-| [GracePlot.jl](https://github.com/ma-laforge/GracePlot.jl) | Build Grace/xmgrace plots with Julia! |
-| [CDimData.jl](https://github.com/ma-laforge/CMDimData.jl) | Parametric analysis/vis. +cont.-<var>f(x)</var> interp. |
+| [NumericIO.jl][NumericIO] | Control numeric output: Sci/Eng/SI +UTF8  |
+| [InspectDR.jl][InspectDR] | Fast, interactive Julia/GTK+ plots (+Smith charts) |
+| [GracePlot.jl][GracePlot] | Build Grace/xmgrace plots with Julia! |
+| [CDimData.jl][CDimData] | Parametric analysis/vis. +cont.-<var>f(x)</var> interp. |
 
 | Circuit-focused |   |
 | :--- | :--- |
-| [CDimCircuits.jl](https://github.com/ma-laforge/CMDimData.jl) | Parametric analysis/vis. of model/meas./sim. results |
+| [CDimCircuits.jl][CDimCircuits] | Parametric analysis/vis. of model/meas./sim. results |
 | [EDAData], [SpiceData], <br> [LibPSF], [PSFWrite] | Reader/writers for EDA file.<br>{.sNp (Touchstone), .tr0 (SPICE), .psf} |
+| [ElectricalDiagrams] | Captivating circuit schematics in LibreOffice/OpenOffice |
 | [Cheat sheets][Cheatsheets] | [Trig. identities][CSTrig], [Ckt design equations][CSCkt] |
+| [Theory] | [DFE Equalization][TDFE] , [<var>S</var>-Parameters][TSParam] |
 | [Theory] | [DFE Equalization][TDFE] , [<var>S</var>-Parameters][TSParam] |
 
 | Arduino projects |   |
 | :--- | :--- |
-| [ArduinoCIR](https://github.com/ma-laforge/ArduinoCIR) | Send/receive TV/other remote signals |
+| [ArduinoCIR] | Send/receive TV/other remote signals |
 
 
 <!--
