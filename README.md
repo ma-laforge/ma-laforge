@@ -19,6 +19,9 @@
 
 [ArduinoCIR]: https://github.com/ma-laforge/ArduinoCIR
 
+[EXTmodelling]: https://ma-laforge.github.io/extresouces/modelling
+[EXTopensrcEDA]: https://ma-laforge.github.io/extresouces/opensrceda
+
 
 | General/scientific |   |
 | :--- | :--- |
@@ -38,6 +41,10 @@
 | Arduino projects |   |
 | :--- | :--- |
 | [ArduinoCIR] | Send/receive TV/other remote signals |
+
+### Links to external resources (aggregators)
+ - [Math/modelling/simulation/plotting resources][EXTmodelling]
+ - [Open source EDA][EXTopensrcEDA]
 
 
 <!--
