@@ -1,14 +1,14 @@
 <!-- Some reference-style links to make tables more readable -->
-[EDAData]: https://github.com/ma-laforge/CMDimCircuits.jl/blob/master/doc/EDAData.md  "EDAData"
-[SpiceData]: https://github.com/ma-laforge/SpiceData.jl  "SpiceData"
-[LibPSF]: https://github.com/ma-laforge/LibPSF.jl  "LibPSF"
-[PSFWrite]: https://github.com/ma-laforge/PSFWrite.jl  "PSFWrite"
-[Cheatsheets]: https://github.com/ma-laforge/DocsLaTeX_Electrical  "Cheat sheets"
-[CSTrig]: https://raw.githubusercontent.com/ma-laforge/DocsLaTeX_Electrical/master/RepoPDF/TrigIdentities.pdf  "Trig. identities"
-[CSCkt]: https://raw.githubusercontent.com/ma-laforge/DocsLaTeX_Electrical/master/RepoPDF/CktDesignEq.pdf  "Ckt design equations"
-[Theory]: https://github.com/ma-laforge/DocsLaTeX_Electrical  "Theory"
-[TDFE]: https://raw.githubusercontent.com/ma-laforge/DocsLaTeX_Electrical/master/RepoPDF/FilterDFE.pdf  "DFE Equalization"
-[TSParam]: https://raw.githubusercontent.com/ma-laforge/DocsLaTeX_Electrical/master/RepoPDF/SParameters.pdf  "<var>S</var>-Parameters"
+[EDAData]: https://github.com/ma-laforge/CMDimCircuits.jl/blob/master/doc/EDAData.md
+[SpiceData]: https://github.com/ma-laforge/SpiceData.jl
+[LibPSF]: https://github.com/ma-laforge/LibPSF.jl
+[PSFWrite]: https://github.com/ma-laforge/PSFWrite.jl
+[Cheatsheets]: https://github.com/ma-laforge/DocsLaTeX_Electrical
+[CSTrig]: https://raw.githubusercontent.com/ma-laforge/DocsLaTeX_Electrical/master/RepoPDF/TrigIdentities.pdf
+[CSCkt]: https://raw.githubusercontent.com/ma-laforge/DocsLaTeX_Electrical/master/RepoPDF/CktDesignEq.pdf
+[Theory]: https://github.com/ma-laforge/DocsLaTeX_Electrical
+[TDFE]: https://raw.githubusercontent.com/ma-laforge/DocsLaTeX_Electrical/master/RepoPDF/FilterDFE.pdf
+[TSParam]: https://raw.githubusercontent.com/ma-laforge/DocsLaTeX_Electrical/master/RepoPDF/SParameters.pdf
 
 
 | General/scientific |   |
@@ -21,9 +21,9 @@
 | Circuit-focused |   |
 | :--- | :--- |
 | [CDimCircuits.jl](https://github.com/ma-laforge/CMDimData.jl) | Parametric analysis/vis. of model/meas./sim. results |
-| [EDAData][], [SpiceData][], <br> [LibPSF][], [PSFWrite][] | Reader/writers for EDA file.<br>{.sNp (Touchstone), .tr0 (SPICE), .psf} |
-| [Cheatsheets][] | [CSTrig][], [CSCkt][] |
-| [Theory][] | [TDFE][] , [TSParam][] |
+| [EDAData], [SpiceData], <br> [LibPSF], [PSFWrite] | Reader/writers for EDA file.<br>{.sNp (Touchstone), .tr0 (SPICE), .psf} |
+| [Cheat sheets][Cheatsheets] | [Trig. identities][CSTrig], [Ckt design equations][CSCkt] |
+| [Theory] | [DFE Equalization][TDFE] , [<var>S</var>-Parameters][TSParam] |
 
 | Arduino projects |   |
 | :--- | :--- |
