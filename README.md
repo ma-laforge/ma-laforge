@@ -30,7 +30,7 @@
 | Circuit-focused |   |
 | :--- | :--- |
 | [CDimCircuits.jl][CDimCircuits] | Parametric analysis/vis. of model/meas./sim. results |
-| [EDAData], [SpiceData], <br> [LibPSF], [PSFWrite] | Reader/writers for EDA file.<br>{.sNp (Touchstone), .tr0 (SPICE), .psf} |
+| [EDAData], [SpiceData], <br> [LibPSF], [PSFWrite] | Reader/writers for EDA file formats.<br>{.sNp (Touchstone), .tr0 (SPICE), .psf} |
 | [Cheat sheets][Cheatsheets] | [Trig. identities][CSTrig], [Ckt design equations][CSCkt] |
 | [Theory] | [DFE Equalization][TDFE] , [<var>S</var>-Parameters][TSParam] |
 | [ElectricalDiagrams] | Captivating circuit schematics in LibreOffice/OpenOffice |
