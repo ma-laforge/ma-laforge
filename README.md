@@ -21,9 +21,9 @@
 | Circuit-focused |   |
 | :--- | :--- |
 | [CDimCircuits.jl](https://github.com/ma-laforge/CMDimData.jl) | Parametric analysis/vis. of model/meas./sim. results |
-| [EDAData], [SpiceData], <br> [LibPSF], [PSFWrite] | Reader/writers for EDA file.<br>{.sNp (Touchstone), .tr0 (SPICE), .psf} |
-| [Cheat sheets] | [CSTrig], [CSCkt] |
-| [Theory] | [TDFE] , [TSParam] |
+| [EDAData][], [SpiceData][], <br> [LibPSF][], [PSFWrite][] | Reader/writers for EDA file.<br>{.sNp (Touchstone), .tr0 (SPICE), .psf} |
+| [Cheatsheets][] | [CSTrig][], [CSCkt][] |
+| [Theory][] | [TDFE][] , [TSParam][] |
 
 | Arduino projects |   |
 | :--- | :--- |
