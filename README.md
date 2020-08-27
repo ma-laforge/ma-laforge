@@ -19,6 +19,7 @@
 
 [ArduinoCIR]: <https://github.com/ma-laforge/ArduinoCIR>
 
+[EXTauthoring]: <https://ma-laforge.github.io/extresouces/authoring>
 [EXTmodelling]: <https://ma-laforge.github.io/extresouces/modelling>
 [EXTfreeEDA]: <https://ma-laforge.github.io/extresouces/freeeda>
 
@@ -43,6 +44,7 @@
 | [ArduinoCIR] | Send/receive "TV remote" (+satbox +...) commands. |
 
 ### Links to external resources (aggregators)
+ - [Authoring Tools &#x21AA;][EXTauthoring]
  - [Math/modelling/simulation/plotting resources &#x21AA;][EXTmodelling]
  - [Free EDA &#x21AA;][EXTfreeEDA]
 
