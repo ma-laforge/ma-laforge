@@ -20,6 +20,7 @@
 [ArduinoCIR]: <https://github.com/ma-laforge/ArduinoCIR>
 
 [EXTauthoring]: <https://ma-laforge.github.io/extresouces/authoring>
+[EXTsoftware]: <https://ma-laforge.github.io/extresouces/softwaredev>
 [EXTmodelling]: <https://ma-laforge.github.io/extresouces/modelling>
 [EXTfreeEDA]: <https://ma-laforge.github.io/extresouces/freeeda>
 
@@ -34,7 +35,7 @@
 | Circuit-focused |   |
 | :--- | :--- |
 | [CMDimCircuits.jl][CMDimCircuits] | Parametric analysis/vis. of model/meas./sim. results |
-| [EDAData], [SpiceData], <br> [LibPSF], [PSFWrite] | Reader/writers for EDA file formats.<br>{.sNp (Touchstone), .tr0 (SPICE), .psf} |
+| [EDAData], [SpiceData.jl][SpiceData], <br> [LibPSF.jl][LibPSF], [PSFWrite.jl][PSFWrite] | Reader/writers for EDA file formats.<br>{.sNp (Touchstone), .tr0 (SPICE), .psf} |
 | [Cheat sheets][Cheatsheets] | [Trig. identities][CSTrig], [Ckt design equations][CSCkt] |
 | [Theory] | [DFE Equalization][TDFE] , [<var>S</var>-Parameters][TSParam] |
 | [ElectricalDiagrams] | Publication-quality circuit schematics in LibreOffice/OpenOffice. |
@@ -44,7 +45,8 @@
 | [ArduinoCIR] | Send/receive "TV remote" (+satbox +...) commands. |
 
 ### Links to external resources (aggregators)
- - [Authoring Tools &#x21AA;][EXTauthoring]
+ - [Authoring (Books, web pages, documentation...) &#x21AA;][EXTauthoring]
+ - [Software development &#x21AA;][EXTsoftware]
  - [Math/modelling/simulation/plotting resources &#x21AA;][EXTmodelling]
  - [Free EDA &#x21AA;][EXTfreeEDA]
 
