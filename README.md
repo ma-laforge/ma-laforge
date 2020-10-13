@@ -21,6 +21,7 @@
 
 [EXTauthoring]: <https://ma-laforge.github.io/extresouces/authoring>
 [EXTsoftware]: <https://ma-laforge.github.io/extresouces/softwaredev>
+[EXTdatastorage]: <https://ma-laforge.github.io/extresouces/datastoragefmt>
 [EXTmodelling]: <https://ma-laforge.github.io/extresouces/modelling>
 [EXTfreeEDA]: <https://ma-laforge.github.io/extresouces/freeeda>
 
@@ -47,6 +48,7 @@
 ### Links to external resources (aggregators)
  - [Authoring (Books, web pages, documentation...) &#x21AA;][EXTauthoring]
  - [Software development &#x21AA;][EXTsoftware]
+ - [Data storage formats &#x21AA;][EXTdatastorage]
  - [Math/modelling/simulation/plotting resources &#x21AA;][EXTmodelling]
  - [Free EDA &#x21AA;][EXTfreeEDA]
 
