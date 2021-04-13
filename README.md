@@ -1,4 +1,5 @@
 <!-- Reference-style links to make tables & lists more readable -->
+[ConventionalApp]: <https://github.com/ma-laforge/ConventionalApp.jl>
 [NumericIO]: <https://github.com/ma-laforge/NumericIO.jl>
 [InspectDR]: <https://github.com/ma-laforge/InspectDR.jl>
 [GracePlot]: <https://github.com/ma-laforge/GracePlot.jl>
@@ -8,6 +9,7 @@
 [SpiceData]: <https://github.com/ma-laforge/SpiceData.jl>
 [LibPSF]: <https://github.com/ma-laforge/LibPSF.jl>
 [PSFWrite]: <https://github.com/ma-laforge/PSFWrite.jl>
+[RSDeltaSigmaPort]: <https://github.com/ma-laforge/RSDeltaSigmaPort.jl>
 
 [ElectricalDiagrams]: <https://github.com/ma-laforge/ElectricalDiagrams>
 [Cheatsheets]: <https://github.com/ma-laforge/DocsLaTeX_Electrical>
@@ -28,6 +30,7 @@
 
 | General/scientific |   |
 | :--- | :--- |
+| [ConventionalApp.jl][ConventionalApp] | Deploy/execute conventional applications in Julia. |
 | [NumericIO.jl][NumericIO] | Control numeric output: Sci/Eng/SI +UTF8  |
 | [InspectDR.jl][InspectDR] | Fast, interactive Julia/GTK+ plots (+Smith charts) |
 | [GracePlot.jl][GracePlot] | Build Grace/xmgrace plots with Julia! |
@@ -35,6 +38,7 @@
 
 | Circuit-focused |   |
 | :--- | :--- |
+| [RSDeltaSigmaPort.jl][RSDeltaSigmaPort] | Port of Richard Schreier's &Delta;&Sigma; toolbox |
 | [CMDimCircuits.jl][CMDimCircuits] | Parametric analysis/vis. of model/meas./sim. results |
 | [EDAData], [SpiceData.jl][SpiceData], <br> [LibPSF.jl][LibPSF], [PSFWrite.jl][PSFWrite] | Reader/writers for EDA file formats.<br>{.sNp (Touchstone), .tr0 (SPICE), .psf} |
 | [Cheat sheets][Cheatsheets] | [Trig. identities][CSTrig], [Ckt design equations][CSCkt] |
